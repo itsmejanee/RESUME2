@@ -1,0 +1,25 @@
+body {
+    background-color: #967e76;
+    text-align: center;
+}
+hr {
+    border-color: white;
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 10%;
+}
+.name {
+    color: #d7c0ae;; font-size: 30px;
+}
+
+.body {
+    color: #d7c0ae;; font-size: 15px;
+}
+
+ h1, h2, h3 {
+    color:mediumpurple; 
+ }
+.dot {
+    text-align: center;
+}
+
